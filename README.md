@@ -22,12 +22,7 @@ Or install it yourself as:
 
 ## Usage
 
-Configure the zipbooks client like this
-
-Zipbooks::Config do |config|
-  config.email = 'email'
-  config.password = 'password'
-end
+Add your username and password to the `Zipbooks::Config` file
 
 initialize
 
